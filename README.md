@@ -4,9 +4,9 @@ Creating a new Cartessian 3D printer using the AM8 build on Thingieverse (https:
 
 # What do you need?
 
-*1 x DuetWiFi
-*4 x 0.9 degree stepper motors
-*1 x E3D Titan Aero with pancake motor
+*1 x DuetWiFi<br>
+*4 x 0.9 degree stepper motors <br>
+*1 x E3D Titan Aero with pancake motor <br>
 *1 x 220 x 220 heated bed (I use the Anycubic ultrabase but completely up to you)
 
 I would also advise plenty of time for the build and commissioning of the printer! (At least 6-8 hours of work in this maybe more!)
